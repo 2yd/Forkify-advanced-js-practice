@@ -17,3 +17,5 @@ ForkifyJSPractice is a JavaScript-based web application designed as a practice p
 -  HTML5
 -  CSS3 (Sass)
 -  Node.js
+
+## Deployed on forkify-zhuge.vercel.app
