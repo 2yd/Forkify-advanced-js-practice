@@ -9,7 +9,7 @@ ForkifyJSPractice is a JavaScript-based web application designed as a practice p
 -  Search for recipes using keywords
 -  View recipe details including cooking time, ingredients, and cooking instructions
 -  MVC architectural pattern for organized and modular code
--  Advanced JavaScript concepts, including async/await, fetch, , and more
+-  Advanced JavaScript concepts, including async/await, fetch, and more
 
 ## Technologies Used
 
@@ -17,3 +17,5 @@ ForkifyJSPractice is a JavaScript-based web application designed as a practice p
 -  HTML5
 -  CSS3 (Sass)
 -  Node.js
+
+## Deployed On https://forkify-zhuge.vercel.app/
